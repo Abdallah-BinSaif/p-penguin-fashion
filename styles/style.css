@@ -1,0 +1,16 @@
+@font-face {
+    font-family: robota-black;
+    src: url("./Roboto-Black.ttf");
+}
+@font-face {
+    font-family: robota-bold;
+    src: url("./Roboto-Bold.ttf");
+}
+@font-face {
+    font-family: montser;
+    src: url("./Montserrat-VariableFont_wght.ttf");
+}
+@font-face {
+    font-family: BebasNeue;
+    src: url("./BebasNeue-Regular.ttf");
+}
